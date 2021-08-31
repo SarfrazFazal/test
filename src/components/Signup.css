@@ -15,7 +15,7 @@
     
 }
 .reg{
-    background-color: #00ffff;
+    background-color: #3399ff;
     height: 82vh;
     display:grid;
     place-items: center;
@@ -43,7 +43,7 @@ h1{
 }
 .submit{
     background-color: #eb7412;
-    color:#0a0a0a;
+    color:#660066;
     text-transform: uppercase;
     font-size: 20px;
     border:2px solid #cc0000;
