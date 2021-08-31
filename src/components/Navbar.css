@@ -1,0 +1,25 @@
+.Navigation{
+    color:#66ff00;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #099ff0;
+    height: 15vh;
+    border-style:solid;
+    border-width: thick;
+    
+}
+ul{
+    display:flex;
+    list-style: none;
+}
+ul>li{
+    margin-left: 30%;
+    font-size: 18px;
+}
+
+.logo{
+height: 110px;
+margin-left: -21%;
+
+}

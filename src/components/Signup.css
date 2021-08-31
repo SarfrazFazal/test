@@ -1,0 +1,60 @@
+.bahasha{
+    margin-left: 1%;
+    height: 71vh;
+    width: 30%;
+    border: 3px solid crimson;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-style:solid;
+    border-width: thick;
+    padding: 2%;
+    border-radius: 15px;
+    margin-top: 10px;
+    
+    
+}
+.reg{
+    background-color: #00ffff;
+    height: 82vh;
+    display:grid;
+    place-items: center;
+    
+    
+}
+h1{
+    width: 100%;
+    display: grid;
+    place-items: center;
+    font-size: xx-large;
+    font-weight: bold;
+    color: darkgreen;
+    text-transform: uppercase;
+}
+
+.in{
+    border-radius:18px ;
+    color: #9900ff;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-transform:capitalize;
+    height: 10%;
+}
+.submit{
+    background-color: #eb7412;
+    color:#0a0a0a;
+    text-transform: uppercase;
+    font-size: 20px;
+    border:2px solid #cc0000;
+    height: 65px;
+    width: 25%;
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.but{
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
